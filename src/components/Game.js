@@ -1,5 +1,6 @@
 import React from "react";
 import './styles/Game.css';
+import { useState } from "react";
 import Board from "./Board";
 
 function Game() {
